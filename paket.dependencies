@@ -1,0 +1,5 @@
+source https://www.nuget.org/api/v2
+storage: none
+framework: netcore3.0
+
+nuget Saturn

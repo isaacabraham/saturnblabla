@@ -1,0 +1,5 @@
+nugety/bin/Debug/
+.ionide/symbolCache.db
+**/*.pdb
+**/*.dll
+**/*.exe
