@@ -8734,6 +8734,9 @@
         "netcoreapp3.0": {
           "projectReferences": {}
         }
+      },
+      "restoreLockProperties": {
+        "restorePackagesWithLockFile": "true"
       }
     },
     "frameworks": {
